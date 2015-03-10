@@ -1,5 +1,5 @@
 username: jiaqi123
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
