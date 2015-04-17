@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 学习md
+title: Javascript中的Arguments对象 
 comments: true
 ---
 
